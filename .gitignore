@@ -1,0 +1,14 @@
+# build output
+dist/
+*.exe
+*.pdb
+
+# local debug
+debug.log
+identity.txt
+presets.txt
+
+# IDE
+.vs/
+*.user
+*.suo
